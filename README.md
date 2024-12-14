@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Currently studying Computer Science at the University of Bucharest. I’m passionate about learning, building, and growing in the world of technology. Every project I work on is an opportunity to improve my skills, explore new ideas, and turn concepts into reality. Whether it’s coding, learning a new technology, or collaborating with others, I’m always excited to keep moving forward.
+**Currently studying Computer Science at the University of Bucharest. I’m passionate about learning, building, and growing in the world of technology. Every project I work on is an opportunity to improve my skills, explore new ideas, and turn concepts into reality. Whether it’s coding, learning a new technology, or collaborating with others, I’m always excited to keep moving forward.**
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iordache-tudor-847006331/)
@@ -20,9 +20,14 @@ Currently studying Computer Science at the University of Bucharest. I’m passio
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![Assembly](https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logo=assembly&logoColor=white)
 
-## 📊 GitHub Stats:
+## 📊 Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tudoriordache2004&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tudoriordache2004&layout=compact&theme=radical)
+
+## 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=tudoriordache2004)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 
 
 
